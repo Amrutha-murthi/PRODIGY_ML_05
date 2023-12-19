@@ -22,16 +22,5 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/Amrutha-murthi/PRODIGY_ML_05.git
 ```
 
-## Usage:
 
-1. Navigate to the project directory:
-
-```bash
 cd Prodigy-Task5
-```
-
-2. Train and test the model:
-
-```bash
-python train_and_test_model.py
-```
